@@ -2,15 +2,16 @@
 
 Session lifecycle, state, threads/conversations and session storage.
 
-> **Status:** structure only. Links and the guide are to be added.
-
 ## Guide
 
 _Planned: `guide.md` in this folder._
 
 ## Official Documentation
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [AgentSession Class](https://learn.microsoft.com/dotnet/api/microsoft.agents.ai.agentsession) - API reference for AgentSession in .NET.
+- [Manage hosted agent sessions](https://learn.microsoft.com/azure/foundry/agents/how-to/manage-hosted-sessions) - Create, resume and delete hosted agent sessions.
+- [Session](https://learn.microsoft.com/agent-framework/concepts/agents/conversations/session) - Agent Framework AgentSession as the container for conversation state.
+- [Storage](https://learn.microsoft.com/agent-framework/agents/conversations/storage) - Local and service-managed chat history storage.
 
 ## Guides & Tutorials
 
@@ -26,7 +27,7 @@ _Planned: `guide.md` in this folder._
 
 ## Blog Posts & Articles
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [Chat History Storage Patterns in Microsoft Agent Framework](https://devblogs.microsoft.com/agent-framework/chat-history-storage-patterns-in-microsoft-agent-framework/) - Patterns for storing chat history.
 
 ## Videos & Talks
 
@@ -34,4 +35,4 @@ _Planned: `guide.md` in this folder._
 
 ## Community
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [maf-agent-sessions-persistence-dotnet](https://github.com/elbruno/maf-agent-sessions-persistence-dotnet/blob/main/docs/maf-agent-sessions-persistence-blog.md) - Persisting Agent Framework sessions in .NET.

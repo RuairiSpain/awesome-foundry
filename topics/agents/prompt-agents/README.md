@@ -2,15 +2,15 @@
 
 Declarative agents defined by instructions, model and tools.
 
-> **Status:** structure only. Links and the guide are to be added.
-
 ## Guide
 
 _Planned: `guide.md` in this folder._
 
 ## Official Documentation
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [Agent tools overview for Microsoft Foundry Agent Service](https://learn.microsoft.com/azure/foundry/agents/concepts/tool-catalog) - Catalog of built-in and custom tools you can attach to an agent.
+- [Quickstart: Create a prompt agent](https://learn.microsoft.com/azure/foundry/agents/quickstarts/prompt-agent) - Create a prompt agent in code and hold a multi-turn conversation with it.
+- [Quickstart: Create a voice-based prompt agent](https://learn.microsoft.com/azure/foundry/agents/quickstarts/prompt-voice-agent) - Create a prompt agent configured for real-time voice interaction.
 
 ## Guides & Tutorials
 
