@@ -62,4 +62,6 @@ Each topic has its own folder with a `README.md` of curated links and (later) a 
 
 ## License
 
-To be decided.
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the contributors have waived all copyright and related rights to this work. See [LICENSE](LICENSE).

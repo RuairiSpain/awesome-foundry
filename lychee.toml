@@ -1,0 +1,12 @@
+# Link checker configuration (https://lychee.cli.rs)
+max_concurrency = 8
+max_retries = 3
+retry_wait_time = 5
+timeout = 30
+# Treat rate limiting and bot-blocking as non-fatal.
+accept = ["200..=299", "403", "429"]
+exclude_path = ["LICENSE"]
+# Skip placeholder URLs used in docs.
+exclude = ["^https://example\\.com"]
+cache = true
+max_cache_age = "2d"
