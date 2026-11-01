@@ -3,6 +3,7 @@
 > A curated list of Microsoft Foundry resources: docs, guides, samples, SDKs, talks and community content.
 
 Each topic has its own folder with a `README.md` of curated links and (later) a `guide.md`. See [CONTRIBUTING.md](CONTRIBUTING.md) to add links.
+Contributors and curation agents: read [docs/curation-rules.md](docs/curation-rules.md) and [docs/topic-map.md](docs/topic-map.md).
 
 ## Contents
 
