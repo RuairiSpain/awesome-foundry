@@ -2,15 +2,13 @@
 
 Agent harnesses and runtimes: loops, tool execution, context management and coding-agent harnesses.
 
-> **Status:** structure only. Links and the guide are to be added.
-
 ## Guide
 
 _Planned: `guide.md` in this folder._
 
 ## Official Documentation
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [Use the Microsoft Copilot harness with prompt agents](https://learn.microsoft.com/azure/foundry/agents/how-to/use-tools-skills-copilot-harness) - Run a prompt agent on the managed Copilot harness with skills and tools.
 
 ## Guides & Tutorials
 
@@ -18,7 +16,7 @@ _Planned: `guide.md` in this folder._
 
 ## Samples & Code
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [Build26-BRK243-claw-and-agent-harness-in-microsoft-foundry](https://github.com/microsoft/Build26-BRK243-claw-and-agent-harness-in-microsoft-foundry) - Build 2026 session resources for deploying agents on an agent harness in Foundry.
 
 ## SDKs & Tools
 
@@ -26,7 +24,8 @@ _Planned: `guide.md` in this folder._
 
 ## Blog Posts & Articles
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [Agents That Test Agents: A Cloud-Native Skill-Eval Harness on Foundry Hosted Agents](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/agents-that-test-agents-a-cloud-native-skill-eval-harness-on-foundry-hosted-agen/4528085) - Skill evaluation harness running on hosted agents.
+- [Introducing the Microsoft Copilot harness in Foundry Agent Service](https://devblogs.microsoft.com/foundry/microsoft-copilot-harness-in-foundry/) - Announces the managed harness for long-running prompt agents.
 
 ## Videos & Talks
 
@@ -34,4 +33,5 @@ _Planned: `guide.md` in this folder._
 
 ## Community
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [EnterpriseAgenticWorkshop](https://github.com/kinfey/EnterpriseAgenticWorkshop) - Workshop on sandboxed multi-agent pipelines and a hosted agent harness on Foundry.
+- [foundry-harness-agent](https://github.com/jspoelstra/foundry-harness-agent) - Demo harness agent using Foundry-shared skills and a hosted agent.

@@ -2,15 +2,14 @@
 
 Configuring agents with environment variables, secrets and per-environment settings.
 
-> **Status:** structure only. Links and the guide are to be added.
-
 ## Guide
 
 _Planned: `guide.md` in this folder._
 
 ## Official Documentation
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [agent.yaml schema reference](https://learn.microsoft.com/azure/foundry/agents/concepts/agent-yaml-reference) - Schema reference including the environment variables array.
+- [Configure environment variables for a hosted agent](https://learn.microsoft.com/azure/foundry/agents/how-to/configure-hosted-agent-env-variables) - Declare variables and secrets for hosted agents.
 
 ## Guides & Tutorials
 

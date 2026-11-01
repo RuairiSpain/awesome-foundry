@@ -2,15 +2,13 @@
 
 Serving many users or conversations through shared agent instances and session routing.
 
-> **Status:** structure only. Links and the guide are to be added.
-
 ## Guide
 
 _Planned: `guide.md` in this folder._
 
 ## Official Documentation
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [Multiplex session users](https://learn.microsoft.com/azure/foundry/agents/how-to/multiplex-session-users) - Map many users onto a bounded pool of shared hosted agent sessions.
 
 ## Guides & Tutorials
 
@@ -26,7 +24,7 @@ _Planned: `guide.md` in this folder._
 
 ## Blog Posts & Articles
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [Foundry hosted agent isolation with Microsoft Agent Framework](https://devblogs.microsoft.com/agent-framework/foundry-hosted-agent-isolation-with-microsoft-agent-framework/) - Isolating users on shared hosted agent sessions.
 
 ## Videos & Talks
 
