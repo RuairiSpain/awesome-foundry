@@ -1,0 +1,23 @@
+name: Suggest a link
+description: Suggest a resource to add to the list
+labels: [link-suggestion]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: URL
+    validations:
+      required: true
+  - type: input
+    id: topic
+    attributes:
+      label: Topic
+      description: The topic folder it belongs in, e.g. hosted-agents
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it useful?
+    validations:
+      required: true
