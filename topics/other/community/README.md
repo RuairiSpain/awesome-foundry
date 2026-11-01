@@ -2,8 +2,6 @@
 
 Blogs, videos, talks, newsletters and community projects.
 
-> **Status:** structure only. Links and the guide are to be added.
-
 ## Guide
 
 _Planned: `guide.md` in this folder._
@@ -30,8 +28,11 @@ _Planned: `guide.md` in this folder._
 
 ## Videos & Talks
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [Host your agents on Foundry](https://reactor.microsoft.com/en-us/reactor/series/s-1655/) - Microsoft Reactor livestream series on deploying agents with LangGraph and Agent Framework.
 
 ## Community
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [Foundry Dev Tools](https://github.com/microsoft/foundry-dev-tools) - azd extensions, skills and VS Code tooling for Foundry development.
+- [Microsoft Foundry Developer Community](https://github.com/microsoft-foundry) - Official GitHub organization with samples and community links.
+- [Microsoft Foundry Discord](https://aka.ms/azureaifoundry/discord) - Official Discord server with community Q&A and live events.
+- [Microsoft Foundry discussions](https://github.com/microsoft-foundry/discussions) - Community forum, events and learning resources.
