@@ -2,15 +2,15 @@
 
 Web IQ: web grounding and search for agents.
 
-> **Status:** structure only. Links and the guide are to be added.
-
 ## Guide
 
 _Planned: `guide.md` in this folder._
 
 ## Official Documentation
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [Microsoft Web IQ frequently asked questions](https://learn.microsoft.com/web-iq/resources/faq) - Answers on limits, tuning and access.
+- [Microsoft Web IQ overview](https://learn.microsoft.com/web-iq/overview) - Web search and grounding APIs over REST, MCP and SDKs.
+- [What's new in Microsoft Web IQ](https://learn.microsoft.com/web-iq/resources/whats-new) - Release notes for Web IQ.
 
 ## Guides & Tutorials
 
@@ -26,7 +26,7 @@ _Planned: `guide.md` in this folder._
 
 ## Blog Posts & Articles
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [What is Web IQ? Web search and grounding APIs for AI agents](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/web-iq-web-search-and-grounding-apis-for-ai-agents/4565272) - Developer introduction to Web IQ.
 
 ## Videos & Talks
 
@@ -34,4 +34,4 @@ _Planned: `guide.md` in this folder._
 
 ## Community
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [webmaxru/webiq-demo](https://github.com/webmaxru/webiq-demo) - Unofficial sandbox for the Web IQ APIs built on the @microsoft/webiq SDK.
