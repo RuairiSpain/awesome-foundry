@@ -36,7 +36,6 @@ _Planned: `guide.md` in this folder._
 
 ## Videos & Talks
 
-- [Build AI Apps Locally with Foundry Local (Full Walkthrough CLI + SDK)](https://www.youtube.com/watch?v=4UmzTs8VVmo) - Short walkthrough of the Foundry Local CLI and SDK.
 - [Build and ship cross-platform apps on-device with Foundry Local](https://www.youtube.com/watch?v=bKhQ8nT0PcM) - Session on building and shipping on-device apps across platforms.
 - [Microsoft Foundry Local -- First Look and Walk Through](https://www.youtube.com/watch?v=HjoizviPZYg) - First look at installing and using Foundry Local.
 

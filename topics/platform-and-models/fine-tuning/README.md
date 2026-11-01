@@ -21,7 +21,6 @@ _Planned: `guide.md` in this folder._
 ## Samples & Code
 
 - [microsoft-foundry/fine-tuning](https://github.com/microsoft-foundry/fine-tuning) - Examples, datasets and guidance for managed fine-tuning and interactive training.
-- [RFT Best Practices](https://github.com/microsoft-foundry/fine-tuning/blob/main/Demos/Agentic_RFT_PrivatePreview/RFT_Best_Practice.md) - Best-practice notes for reinforcement fine-tuning, from baselines to graders.
 
 ## SDKs & Tools
 
