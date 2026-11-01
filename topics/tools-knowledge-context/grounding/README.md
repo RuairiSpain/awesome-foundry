@@ -2,15 +2,17 @@
 
 Grounding with web, enterprise data and citations.
 
-> **Status:** structure only. Links and the guide are to be added.
-
 ## Guide
 
 _Planned: `guide.md` in this folder._
 
 ## Official Documentation
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [Connect an Azure AI Search index to Foundry agents](https://learn.microsoft.com/azure/foundry/agents/how-to/tools/ai-search) - Ground agents in an index and return inline citations.
+- [Overview of web grounding capabilities in Foundry](https://learn.microsoft.com/azure/foundry/agents/how-to/tools/web-overview) - Compare Web Search and Grounding with Bing options for agents.
+- [Use Grounding with Bing Search tools with the agents API](https://learn.microsoft.com/azure/foundry/agents/how-to/tools/bing-tools) - Set up Grounding with Bing Search and Bing Custom Search tools.
+- [Use web search tool in Foundry Agent Service](https://learn.microsoft.com/azure/foundry/agents/how-to/tools/web-search) - Add web search to prompt or hosted agents without extra Azure resources.
+- [Web search with the Responses API](https://learn.microsoft.com/azure/foundry/openai/how-to/web-search) - Use the web_search tool with the Responses API.
 
 ## Guides & Tutorials
 
@@ -26,7 +28,7 @@ _Planned: `guide.md` in this folder._
 
 ## Blog Posts & Articles
 
-<!-- Add links as: - [Title](url) - one-line description -->
+- [Getting Results with AI Agents + Bing Grounding](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/getting-results-with-ai-agents--bing-grounding/4401115) - Practical tips for grounding agents with Bing.
 
 ## Videos & Talks
 
